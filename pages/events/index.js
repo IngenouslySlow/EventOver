@@ -1,7 +1,9 @@
+import Layout from "../../components/Layout";
+
 export default function EventsPage() {
   return (
-    <div>
+    <Layout title="Find Events">
       <h1>Here you can find all the events</h1>
-    </div>
+    </Layout>
   );
 }
